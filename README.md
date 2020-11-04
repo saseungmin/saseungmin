@@ -4,12 +4,8 @@
 - 📫 How to reach me: dbd02169@naver.com
 - 🚀 Blog : https://haranglog.tistory.com/
 - ❄ Velog : https://velog.io/@saseungmin
-- 📚 I'm focusing on CodeSoom.
-
-</br>
 
 ![seungmin's github stats](https://github-readme-stats.vercel.app/api?username=saseungmin&theme=vue&show_icons=true)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saseungmin&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
