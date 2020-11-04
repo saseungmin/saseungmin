@@ -1,9 +1,10 @@
 ## Hi there 👋
 - 🌱 I’m currently learning React, Redux, Node.js, Mongo.db, JavaScript, TypeScript.. 
-- 📫 How to reach me: dbd02169@naver.com
 - 😤 I want to be a frontend developer.
+- 📫 How to reach me: dbd02169@naver.com
 - 🚀 Blog : https://haranglog.tistory.com/
 - ❄ Velog : https://velog.io/@saseungmin
+- 📚 I'm focusing on CodeSoom.
 
 </br>
 
