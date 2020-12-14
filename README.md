@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=150&section=header&text=seungmin%20Sa&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=180&section=header&text=seungmin%20Sa&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
 
 
 <h3 align="center"> Hi there 👋</h3>
@@ -57,4 +57,4 @@
 </p>
 
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=74c0fc&height=150&section=footer&)
+![footer](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=120&section=footer)
