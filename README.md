@@ -11,7 +11,7 @@
   <h3 align="center">It's Me! 🙋‍♂️</h3>
   <p align="center">
     <a href="https://haranglog.tistory.com/">
-      <img src="https://img.shields.io/badge/Tech_Blog-f76707?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tech_Blog-f76707?style=flat-square&logo=Blogger&logoColor=white"/>
     </a>
     <a href="https://velog.io/@saseungmin">
       <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
@@ -19,7 +19,7 @@
     <a href="https://www.facebook.com/profile.php?id=100003758628929">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
     </a>
-    <a href="dbd02169@naver.com">
+    <a href="mailto:dbd02169@naver.com">
       <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
   </p>
