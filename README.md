@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=200&section=header&text=seungmin%20Sa&fontSize=90&fontColor=343a40&animation=twinkling&rotate=-5)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=150&section=header&text=seungmin%20Sa&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
 
 
 <h3 align="center"> Hi there 👋</h3>
@@ -44,7 +44,7 @@
   </br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black"/>
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
@@ -52,6 +52,6 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
 </p>
 
-</br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungmin&theme=cobalt&show_icons=true" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungmin&theme=cobalt&show_icons=true" />
+</p>
