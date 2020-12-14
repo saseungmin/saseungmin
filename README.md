@@ -1,8 +1,13 @@
-## Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=200&section=header&text=seungmin%20Sa&fontSize=90&fontColor=343a40&animation=twinkling&rotate=-5)
+
+
+<h3 align="center"> Hi there 👋</h3>
+
 - 😤 I want to be a frontend developer.
 - 🌱 I’m currently learning React, Redux, Node.js, Mongo.db, JavaScript, TypeScript..
 
-![seungmin's github stats](https://github-readme-stats.vercel.app/api?username=saseungmin&theme=vue&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungmin&theme=cobalt&show_icons=true" />
 
 
 </br>
@@ -10,8 +15,11 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Tistory--Blog-f76707?style=flat-square&link=https://haranglog.tistory.com/"/>
     <img src="https://img.shields.io/badge/Vlog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@saseungmin"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003758628929
+"/>
     <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=dbd02169@naver.com"/>
   </p>
+
 
   <h3 align="center">Tech Stack 🎊</h3>
 <p align="center">
