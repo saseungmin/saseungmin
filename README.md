@@ -7,17 +7,21 @@
 - 😤 I want to be a frontend developer.
 - 🌱 I’m currently learning React, Redux, Node.js, Mongo.db, JavaScript, TypeScript..
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungmin&theme=cobalt&show_icons=true" />
-
-
 </br>
   <h3 align="center">It's Me! 🙋‍♂️</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/Tistory--Blog-f76707?style=flat-square&link=https://haranglog.tistory.com/"/>
-    <img src="https://img.shields.io/badge/Vlog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@saseungmin"/>
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003758628929
-"/>
-    <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=dbd02169@naver.com"/>
+    <a href="https://haranglog.tistory.com/">
+      <img src="https://img.shields.io/badge/Tech_Blog-f76707?style=flat-square"/>
+    </a>
+    <a href="https://velog.io/@saseungmin">
+      <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100003758628929">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
+    </a>
+    <a href="dbd02169@naver.com">
+      <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
   </p>
 
 
@@ -40,10 +44,14 @@
   </br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black"/>
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
 </p>
+
+</br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungmin&theme=cobalt&show_icons=true" />
