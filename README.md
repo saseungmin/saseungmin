@@ -22,6 +22,9 @@
     <a href="mailto:dbd02169@naver.com">
       <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
+    <a href="https://seungmin95.netlify.app/">
+      <img src="https://img.shields.io/badge/About_Me-00A98F?style=flat-square&logo=About.me&logoColor=white"/>
+    </a>
   </p>
 
 
