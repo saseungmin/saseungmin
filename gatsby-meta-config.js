@@ -1,9 +1,9 @@
 module.exports = {
   title: `SeungMin Sa`,
-  description: `Blog posted about ...`,
+  description: `about me..!`,
   author: `saseungmin`,
-  introduction: `Hello! It's Me! and I want to be a Front-End developer! `,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  introduction: `I want to be a Front-End developer!`,
+  siteUrl: `https://seungmin95.netlify.app/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `saseungmin`, // Your GitHub account
@@ -12,10 +12,10 @@ module.exports = {
     linkedin: ``, // Your LinkedIn account
   },
   icon: `content/assets/profile.png`, // Add your favicon
-  keywords: [`blog`],
+  keywords: [`blog`, 'about me', 'develop', 'JavaScript'],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'saseungmin/saseungmin', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
