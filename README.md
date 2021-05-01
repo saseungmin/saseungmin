@@ -22,7 +22,7 @@
     <a href="mailto:dbd02169@naver.com">
       <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
-    <a href="https://seungmin95.netlify.app/">
+    <a href="https://seungmin95.netlify.app/about">
       <img src="https://img.shields.io/badge/About_Me-00A98F?style=flat-square&logo=About.me&logoColor=white"/>
     </a>
   </p>
@@ -59,5 +59,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungmin&theme=cobalt&show_icons=true" />
 </p>
 
+<p align="center">
+  <img align="center" src="https://github.com/saseungmin/saseungmin/blob/master/github-metrics.svg">
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=120&section=footer)
