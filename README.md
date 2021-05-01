@@ -56,11 +56,12 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungmin&theme=cobalt&show_icons=true" />
+  <img align="center" src="https://github.com/saseungmin/saseungmin/blob/master/github-metrics.svg">
 </p>
 
 <p align="center">
-  <img align="center" src="https://github.com/saseungmin/saseungmin/blob/master/github-metrics.svg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungmin&theme=cobalt&show_icons=true" />
 </p>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=120&section=footer)
