@@ -20,10 +20,10 @@
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
     </a>
     <a href="mailto:dbd02169@naver.com">
-      <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/E--Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
     </a>
-    <a href="https://seungmin95.netlify.app/about">
-      <img src="https://img.shields.io/badge/About_Me-00A98F?style=flat-square&logo=About.me&logoColor=white"/>
+    <a href="https://www.notion.so/e745ead9704646ddad166eabf3c66d10">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=#000000"/>
     </a>
   </p>
 
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   </br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=#339933"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
@@ -52,7 +52,11 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black"/>
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testing_Library
+-E33332?style=flat-square&logo=Testing-Library&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeceptJS-ffe680?style=flat-square&logo=CodeceptJS&logoColor=blue"/>
 </p>
 
 </br>
