@@ -16,7 +16,7 @@
     <a href="https://velog.io/@saseungmin">
       <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100003758628929">
+    <a href="https://www.facebook.com/saseungmin95">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
     </a>
     <a href="mailto:dbd02169@naver.com">
