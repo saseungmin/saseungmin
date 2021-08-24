@@ -4,8 +4,8 @@
 
 <h3 align="center"> Hi there 👋</h3>
 
-- 😤 I want to be a frontend developer.
-- 🌱 I’m currently learning React, Redux, Node.js, Mongo.db, JavaScript, TypeScript..
+- 😤 Always Happy Junior Front-End Developer
+- 🌱 I’m currently learning React, Redux, JavaScript, TypeScript.. about Front-End
 
 </br>
   <h3 align="center">It's Me! 🙋‍♂️</h3>
