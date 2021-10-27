@@ -31,7 +31,7 @@
   </p>
 
 
-  <h3 align="center">Tech Stack 🎊</h3>
+  <h3 align="center">Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
@@ -63,6 +63,12 @@
 
 </br>
 
+  <h3 align="center">My Stats! 🍭</h3>
+
+<p align="center">
+  <a href="https://wakatime.com/@80511dd2-bcc5-44be-893c-a0de3451278d"><img src="https://wakatime.com/badge/user/80511dd2-bcc5-44be-893c-a0de3451278d.svg" alt="Total time coded since Nov 21 2020" /></a>
+</p>
+
 <p align="center">
   <img align="center" width="400" src="https://github.com/saseungmin/saseungmin/blob/master/github-metrics.svg">
 </p>
@@ -70,5 +76,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungmin&theme=cobalt&show_icons=true" />
 </p>
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=120&section=footer)
