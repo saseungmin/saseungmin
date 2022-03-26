@@ -22,7 +22,7 @@
     <a href="mailto:dbd02169@naver.com">
       <img src="https://img.shields.io/badge/E--Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
     </a>
-    <a href="https://www.notion.so/e745ead9704646ddad166eabf3c66d10">
+    <a href="https://harang-resume.notion.site/e745ead9704646ddad166eabf3c66d10">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=#000000"/>
     </a>
     <a href="https://www.linkedin.com/in/seungmin95">
