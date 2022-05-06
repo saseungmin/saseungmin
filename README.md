@@ -33,6 +33,7 @@
 
   <h3 align="center">Tech Stack 🛠</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -67,6 +68,10 @@
 
 <p align="center">
   <a href="https://wakatime.com/@80511dd2-bcc5-44be-893c-a0de3451278d"><img src="https://wakatime.com/badge/user/80511dd2-bcc5-44be-893c-a0de3451278d.svg" alt="Total time coded since Nov 21 2020" /></a>
+</p>
+
+<p align="center">
+  <a href="https://opgc.me/#/users/saseungmin" target="_blank"><img src="https://api.opgc.me/githubs/users/saseungmin/tag/?theme=basic" /></a>
 </p>
 
 <p align="center">
