@@ -4,8 +4,7 @@
 
 <h3 align="center"> Hi there 👋</h3>
 
-- 😤 Always Happy Junior Front-End Developer
-- 🌱 I’m currently learning React, Redux, JavaScript, TypeScript.. about Front-End
+- 😤 Always happy junior Front-end Developer
 
 </br>
   <h3 align="center">It's Me! 🙋‍♂️</h3>
