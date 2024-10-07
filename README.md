@@ -26,6 +26,8 @@
 
 <h3 align="center">💻 Work Experience</h3>
 <p align="center">
+  Levit Front-end Developer
+  </br>
   Bemyfriends Front-end Developer
   </br>
   Kasa Korea Front-end Enginner
