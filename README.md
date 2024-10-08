@@ -26,7 +26,7 @@
 
 <h3 align="center">💻 Work Experience</h3>
 <p align="center">
-  Levit Front-end Developer
+  Levit Front-end Enginner
   </br>
   Bemyfriends Front-end Developer
   </br>
