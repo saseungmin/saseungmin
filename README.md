@@ -53,10 +53,6 @@
 </p>
 
 <p align="center">
-  <a href="https://opgc.me/#/users/saseungmin" target="_blank"><img src="https://api.opgc.me/githubs/users/saseungmin/tag/?theme=basic" /></a>
-</p>
-
-<p align="center">
   <img align="center" width="400" src="https://github.com/saseungmin/saseungmin/blob/master/github-metrics.svg">
 </p>
 
