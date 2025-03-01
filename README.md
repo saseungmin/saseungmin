@@ -35,9 +35,9 @@
 
 <h3 align="center">🥕 Activities</h3>
 <p align="center">
-  FEConf 2024 Staff <sub>2024.08</sub>
+  SIPE 3th Organizer <sub>2024.08 ~ 2025.02</sub>
   </br>
-  SIPE 3th Organizer <sub>2024.08 ~ ing</sub>
+  FEConf 2024 Staff <sub>2024.08</sub>
   </br>
   SIPE 2th <sub>2024. 03. ~ 2024. 07</sub>
   </br>
