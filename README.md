@@ -26,6 +26,8 @@
 
 <h3 align="center">💻 Work Experience</h3>
 <p align="center">
+  CJ ENM Mnet Plus React Native Enginner
+  </br>
   Levit Front-end Enginner
   </br>
   Bemyfriends Front-end Developer
