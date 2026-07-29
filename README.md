@@ -26,13 +26,13 @@
 
 <h3 align="center">💻 Work Experience</h3>
 <p align="center">
-  CJ ENM Mnet Plus React Native Enginner
+  CJ ENM Mnet Plus React Native Engineer
   </br>
-  Levit Front-end Enginner
+  Levit Front-end Engineer
   </br>
   Bemyfriends Front-end Developer
   </br>
-  Kasa Korea Front-end Enginner
+  Kasa Korea Front-end Engineer
 </p>
 
 <h3 align="center">🥕 Activities</h3>
